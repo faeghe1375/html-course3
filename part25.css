@@ -1,0 +1,17 @@
+html{
+  font-size: 50px
+}
+
+
+
+div{
+  /* font-size: 1cm */
+  /* font-size: : 2mm */
+  font-size: 20px;
+}
+.faeghe{
+  /* font-size: 200% */
+  /* font-size: 2ch */
+  /* font-size: .7em */
+  font-size: 1rem;
+}
